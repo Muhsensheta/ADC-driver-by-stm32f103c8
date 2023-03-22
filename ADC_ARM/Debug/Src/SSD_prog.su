@@ -1,0 +1,2 @@
+../Src/SSD_prog.c:25:6:H_SSD_void_init	8	static
+../Src/SSD_prog.c:44:6:H_SSD_void_DisplayNumber	24	static
